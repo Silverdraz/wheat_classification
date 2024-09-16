@@ -1,0 +1,6 @@
+train: C:\Users\aaron\OneDrive\Desktop\wheat_objdet\data\wheat_data_annotated\images\train
+val: C:\Users\aaron\OneDrive\Desktop\wheat_objdet\data\wheat_data_annotated\images\validation
+
+nc: 1
+names: ["Wheat"]
+  
