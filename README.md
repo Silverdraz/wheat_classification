@@ -1,6 +1,6 @@
-# **Wheat Object Detection using Yolo V10**
+# **Wheat Object Detection using Yolo V10 (Computer Vision)**
 
-## **About the Project**
+## **About the Comp Vision Project**
 The project aims to fine-tune Yolo V10 on a custom dataset (global wheat detection dataset), allowing object detection to be implemented even for objects or classes that are not included in the pre-training. This highlights the versatility of object detection on non pretrained images or classes.
 
 ## **Built With**
